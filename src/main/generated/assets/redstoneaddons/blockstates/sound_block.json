@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "redstoneaddons:block/sound_block"
+    }
+  }
+}

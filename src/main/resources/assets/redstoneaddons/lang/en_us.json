@@ -1,0 +1,15 @@
+{
+  "item.redstoneaddons.bluestone_dust": "Bluestone Dust",
+  "item.redstoneaddons.greenstone_dust": "Greenstone Dust",
+  "item.redstoneaddons.yellowstone_dust": "Yellowstone Dust",
+
+  "item.redstoneaddons.redstone_detector": "Redstone Detector",
+
+  "block.redstoneaddons.bluestone_block": "Block of Bluestone",
+  "block.redstoneaddons.greenstone_block": "Block of Greenstone",
+  "block.redstoneaddons.yellowstone_block": "Block of Yellowstone",
+
+  "block.redstoneaddons.sound_block": "Sound Block",
+
+  "itemgroup.bluestone_dust": "Redstone Addons"
+}

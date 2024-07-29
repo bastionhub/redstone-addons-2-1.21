@@ -1,0 +1,7 @@
+// 1.21	2024-07-29T14:57:21.5193879	Redstone Addons/Block Loot Tables
+d8a50026ada416c05d6cfd6842c5b26f69fc1224 data\redstoneaddons\loot_table\blocks\yellowstone_block.json
+dbd7b9729e82c4ec178731e11af181ffd5e57ee1 data\redstoneaddons\loot_table\blocks\yellowstone_wire.json
+fbbd83363050b8dfb50b051c6d3629873fd7f781 data\redstoneaddons\loot_table\blocks\bluestone_wire.json
+0c69b6afbfc029df25b0b5a1e1dc0813033fe737 data\redstoneaddons\loot_table\blocks\bluestone_block.json
+ef6d6b54a55169204f1be11e62a7824cc19e149a data\redstoneaddons\loot_table\blocks\greenstone_wire.json
+b3f6922d61a5eff9b5a8dd3c92d1905cb5e18ddb data\redstoneaddons\loot_table\blocks\greenstone_block.json

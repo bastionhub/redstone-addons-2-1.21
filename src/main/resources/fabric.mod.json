@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "redstoneaddons",
+	"version": "1.21",
+	"name": "Redstone Addons",
+	"description": "Mod that adds various redstone-related blocks",
+	"authors": [
+		"BastionHub"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/redstoneaddons/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.bastionhub.redstoneaddons.RedstoneAddons"
+		],
+		"client": [
+			"net.bastionhub.redstoneaddons.RedstoneAddonsClient"
+		],
+		"fabric-datagen": [
+			"net.bastionhub.redstoneaddons.RedstoneAddonsDataGenerator"
+		]
+	},
+	"mixins": [
+		"redstoneaddons.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

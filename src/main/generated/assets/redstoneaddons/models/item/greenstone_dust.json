@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "redstoneaddons:item/greenstone_dust"
+  }
+}
