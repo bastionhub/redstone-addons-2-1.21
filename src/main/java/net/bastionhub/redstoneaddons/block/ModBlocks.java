@@ -43,5 +43,7 @@ public class ModBlocks {
     public static void registerModBlocks() {
         RedstoneAddons.LOGGER.info("Registering ModBlocks for " + RedstoneAddons.MOD_ID);
         BlockRenderLayerMap.INSTANCE.putBlock(BLUESTONE_WIRE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(GREENSTONE_WIRE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(YELLOWSTONE_WIRE, RenderLayer.getCutout());
     }
 }
