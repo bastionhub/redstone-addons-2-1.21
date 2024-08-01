@@ -25,6 +25,14 @@ public class ModBlocks {
 
     public static final Block BLUESTONE_WIRE = registerBlock("bluestone_wire",
             new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.REDSTONE_WIRE).mapColor(MapColor.WATER_BLUE)));
+    public static final Block BLUESTONE_TORCH = registerBlock("bluestone_torch",
+            new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.REDSTONE_TORCH).mapColor(MapColor.WATER_BLUE)));
+    public static final Block BLUESTONE_REPEATER = registerBlock("bluestone_repeater",
+            new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.REPEATER).mapColor(MapColor.WATER_BLUE)));
+    public static final Block BLUESTONE_COMPARATOR = registerBlock("bluestone_comparator",
+            new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.COMPARATOR).mapColor(MapColor.WATER_BLUE)));
+    public static final Block BLUESTONE_WALL_TORCH = registerBlock("bluestone_wall_torch",
+            new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.REDSTONE_WALL_TORCH).mapColor(MapColor.WATER_BLUE)));
     public static final Block GREENSTONE_WIRE = registerBlock("greenstone_wire",
             new RedstoneWireBlock(AbstractBlock.Settings.copy(Blocks.REDSTONE_WIRE).mapColor(MapColor.EMERALD_GREEN)));
     public static final Block YELLOWSTONE_WIRE = registerBlock("yellowstone_wire",
